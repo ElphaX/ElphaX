@@ -4,12 +4,12 @@
 Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Group Pty Ltd](https://www.elphaone.com/). I love all things technology and that's what drives me in both my professional space and personal time to bring the future to us, to dream big and make *that* a reality.
 
 <a href="https://github.com/elphax/">
-  <img width="333px" align="center" src="https://github-readme-stats.vercel.app/api?username=elphax&show_icons=true&theme=react&count_private=true&hide_border=false&border_radius=35&hide_title=true" />
+  <img width="333px" align="center" src="https://github-readme-stats.vercel.app/api?username=elphax&show_icons=true&count_private=true&hide_border=false&border_radius=35&hide_title=true&&bg_color=DEG,blue,red,yellow" />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 </a>
 
-<br />![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/EdwinJSx?style=for-the-badge)
+<br />
 <br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
