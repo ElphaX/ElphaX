@@ -1,6 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Fancy seeing you here?!
 <hr />
-<br />
 
 Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Group Pty Ltd](https://www.elphaone.com/). I love all things technology and that's what drives me in both my professional space and personal time to bring the future to us, to dream big and make *that* a reality.
 
@@ -24,7 +23,8 @@ Here are some ideas to get you started:
 
 -->
 <br />
-
+<br />
+<br />
 I don't drink coffee but the button seemed to fit 🥺👉👈
 <div style="display:block; height:50px; width:100%; background:red">
 <a href="https://www.buymeacoffee.com/elpha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
