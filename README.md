@@ -26,3 +26,5 @@ Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Gr
 I don't drink <a href="https://www.buymeacoffee.com/elpha" target="_blank">coffee</a> 🥺👉👈
 
 <br />
+
+<img src="https://elphaone.com/assets/img/bg/header-bg-overlay-10.png"/>
