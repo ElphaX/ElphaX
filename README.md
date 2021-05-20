@@ -8,7 +8,8 @@ Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Gr
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </a>
 
-<br />
+<br /><br />
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -17,12 +18,13 @@ Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Gr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<br />
-<br />
+
+<br /><br />
+
 I don't drink coffee but the button seemed to fit 🥺👉👈
-<br />
-<br />
-<br />
+
+<br /><br /><br />
+
 <div style="display:block; height:50px; width:100%; background:red">
 <a href="https://www.buymeacoffee.com/elpha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
