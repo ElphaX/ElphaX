@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Well Hello! Fancy seeing you here?
 <hr />
 
-Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Group Pty Ltd](https://www.elphaone.com/). I love all things technology and that's what drives me in both my professional space and personal time to bring the future to us, to dream big and make *that* a reality.
+Hi, I'm Edwin 'Elpha' S Jonathan, former freelancer now director of [ElphaOne Group Pty Ltd](https://www.elphaone.com/). I love all things technology and that's what drives me in both my professional space and personal time to bring the future to us, to dream big and make *that* a reality.
 
 <a href="https://github.com/elphax/">
   <img width="333px" align="center" src="https://github-readme-stats.vercel.app/api?username=elphax&show_icons=true&count_private=true&theme=react&hide_border=true&border_radius=35&hide_title=true&bg_color=30,00b1e2,003140&title+color=fff&ext_color=fff" />
