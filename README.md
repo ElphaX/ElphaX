@@ -8,7 +8,7 @@ Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Gr
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Edwin_JS_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/EdwinJSx?style=for-the-badge)][reddit]
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/EdwinJSx?style=for-the-badge)][reddit]
 <br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
