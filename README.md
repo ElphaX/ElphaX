@@ -28,7 +28,7 @@ I don't drink <a href="https://www.buymeacoffee.com/elpha" target="_blank">coffe
 
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=elphax.elphax)
+[](https://visitor-badge.glitch.me/badge?page_id=elphax.elphax)
 
 <br />
 
