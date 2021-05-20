@@ -5,8 +5,7 @@ Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Gr
 
 <a href="https://github.com/elphax/">
   <img width="333px" align="center" src="https://github-readme-stats.vercel.app/api?username=elphax&show_icons=true&theme=react&count_private=true&hide_border=false&border_radius=35&hide_title=true" />
-  <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
-  <img align="right" alt="GIF" src="https://elphaone.com/assets/img/bg/header-bg-overlay-10.png" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 </a>
 
@@ -29,8 +28,3 @@ Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Gr
 I don't drink <a href="https://www.buymeacoffee.com/elpha" target="_blank">coffee</a> 🥺👉👈
 
 <br />
-
-[!](https://visitor-badge.glitch.me/badge?page_id=elphax.elphax)
-
-<br />
-<div style="background-image:url('https://i.stack.imgur.com/wPh0S.jpg'); width:200px; height:100px; background-position:center;">&nbsp;</div>
