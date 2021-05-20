@@ -1,4 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Fancy seeing you here?!
+<hr />
+<br />
+
+Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Group Pty Ltd](https://www.elphaone.com/). I love all things technology and that's what drives me in both my professional space and personal time to bring the future to us, to dream big and make *that* a reality.
 
 <a href="https://github.com/elphax/">
   <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=elphax&show_icons=true&theme=react&count_private=true&hide_border=false&border_radius=35&hide_title=true" />
@@ -19,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+<br />
 
 I don't drink coffee but the button seemed to fit 🥺👉👈
 <div style="display:block; height:50px; width:100%; background:red">
