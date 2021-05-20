@@ -1,6 +1,6 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" /> Hey! Nice to see you.
 
-![Elpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=elphax&show_icons=true&theme=react)
+![Elpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=elphax&show_icons=true&theme=react&count_private=true&hide_border=false)
 <!--
 
 Here are some ideas to get you started:
