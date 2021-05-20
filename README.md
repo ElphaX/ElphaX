@@ -33,3 +33,4 @@ I don't drink <a href="https://www.buymeacoffee.com/elpha" target="_blank">coffe
 [!](https://visitor-badge.glitch.me/badge?page_id=elphax.elphax)
 
 <br />
+<div style="background-image:url('https://i.stack.imgur.com/wPh0S.jpg'); width:200px; height:100px; background-position:center;">&nbsp;</div>
