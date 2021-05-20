@@ -2,8 +2,9 @@
 
 <a href="https://github.com/elphax/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elphax&show_icons=true&theme=react&count_private=true&hide_border=false&border_radius=35&hide_title=true" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </a>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <!--
 
 Here are some ideas to get you started:
