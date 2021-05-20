@@ -1,8 +1,7 @@
 ###  Hey! Nice to see you.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elphax&show_icons=true&theme=react)
+![Elpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=elphax&show_icons=true&theme=react)
 <!--
-**ElphaX/ElphaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 I don't drink coffee but the button seemed to fit 🥺👉👈
 
