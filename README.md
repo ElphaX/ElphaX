@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 I don't drink coffee but the button seemed to fit 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/elpha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/elpha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="550" ></a>
