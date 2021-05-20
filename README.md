@@ -27,4 +27,8 @@ I don't drink <a href="https://www.buymeacoffee.com/elpha" target="_blank">coffe
 
 <br />
 
-<img style="float:left; position:fixed; z-index:-999;" src="https://elphaone.com/assets/img/bg/header-bg-overlay-10.png"/>
+![](https://visitor-badge.glitch.me/badge?page_id=elphax.elphax)
+
+<br />
+
+!<img style="float:left; position:fixed; z-index:-999;" src="https://elphaone.com/assets/img/bg/header-bg-overlay-10.png"/>
