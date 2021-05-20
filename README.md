@@ -21,10 +21,6 @@ Hi, I'm Edwin 'Elpha' Jonathan S, former freelancer now director of [ElphaOne Gr
 
 <br />
 
-I don't drink coffee but the button seemed to fit 🥺👉👈
+I don't drink <a href="https://www.buymeacoffee.com/elpha" target="_blank">coffee</a> 🥺👉👈
 
 <br />
-
-<div style="display:block; height:50px; width:100%; background:red">
-<a href="https://www.buymeacoffee.com/elpha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</div>
